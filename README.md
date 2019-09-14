@@ -11,5 +11,5 @@ Displays a permanet invite link
 <h2>!tier</h2>
 Shows what tier you're in
 
-<h2>!help</h2>
-A general help command
+<h2>!tiers</h2>
+A help command soley for tiers
